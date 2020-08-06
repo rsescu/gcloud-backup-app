@@ -2,4 +2,4 @@ __pycache__/
 gcloud/
 credentials.json
 token.pickle
-/.idea/
+.idea/
